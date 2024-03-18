@@ -8,7 +8,7 @@
 | [文心一言](https://yiyan.baidu.com/)                         | 百度AI，写作辅助                         |
 | [智谱清言](https://chatglm.cn/main/detail)                   | ChatGLM AI，任务，写作                   |
 | [ChatGPT](https://chat.openai.com/)                          | OpenAI AI，任务，写作 ，梯子                   |
-| [Kimi.ai - 超长文档阅读提问](https://kimi.moonshot.cn/chat/cnphb24odhstlh281bfg) | Moonshot AI，世界探索                    |
+| [Kimi.ai](https://kimi.moonshot.cn/chat/cnphb24odhstlh281bfg) |    超长文档阅读提问                |
 | [All gammas - Gamma](https://gamma.app/)                     | Gamma.app AI，任务                       |
 | [天工超能AI ](https://search.tiangong.cn/) | 联网搜索功能强大 |
 | [秘塔AI搜索](https://metaso.cn/)                             | 学术研究模式和通用搜索模式                            |
