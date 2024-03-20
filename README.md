@@ -1,4 +1,4 @@
-# AI---AI工具集合，仅自己使用
+![Clip_2024-03-20_16-13-42](https://github.com/Fengling39/AI---/assets/100480928/24d020da-21fb-4bcd-a2a9-c259b6c81270)# AI---AI工具集合，仅自己使用
 | 网站                                                         | 关键词                                   |
 | ------------------------------------------------------------ | ---------------------------------------- |
 | [Sage - Poe](https://poe.com/)                               | 有许多大语言模型，梯子     |
@@ -15,4 +15,5 @@
 | [提示精灵](http://www.promptgenius.site/)                    | AI提示                                   |
 | [AI导航](https://toolsdar.cn/ai) | AI工具导航          |
 | [图钉AI导航网](https://www.tudingai.com/)                    | AI工具导航                               |
+|[txyz.ai](https://app.txyz.ai/)|                              学术科研，快速了解研究现状|https://v.douyin.com/iFXYqrsB|
 
