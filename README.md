@@ -15,5 +15,5 @@
 | [提示精灵](http://www.promptgenius.site/)                    | AI提示                                   |
 | [AI导航](https://toolsdar.cn/ai) | AI工具导航          |
 | [图钉AI导航网](https://www.tudingai.com/)                    | AI工具导航                               |
-|[txyz.ai](https://app.txyz.ai/)|                              学术科研，快速了解研究现状|https://v.douyin.com/iFXYqrsB|
+|[txyz.ai](https://app.txyz.ai/)|                              学术科研，快速了解研究现状 https://v.douyin.com/iFXYqrsB||
 
